@@ -1,0 +1,13 @@
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\bin\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.deps.json
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\bin\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.dll
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\bin\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.pdb
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\bin\Debug\netstandard2.1\UnityEngine.xml
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.csproj.AssemblyReference.cache
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.AssemblyInfoInputs.cache
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.AssemblyInfo.cs
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbou.4E78A4A1.Up2Date
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.dll
+C:\Users\scott\source\repos\Bloodbound-Survivors-Upgrade-Lib\Bloodbound-Survivors-Upgrade-Lib\obj\Debug\netstandard2.1\Bloodbound-Survivors-Upgrade-Lib.pdb
